@@ -1,3 +1,2 @@
-# Algorithms
-Algorithms solutions in PHP - questions from hackerrank.com
 # algorithms_in_php
+Algorithm solutions in PHP
